@@ -1,0 +1,43 @@
+{
+    "atores": [
+      {
+        "id": 1,
+        "nome": "Leonardo DiCaprio",
+        "dataNascimento": "1974-11-11",
+        "filmes": [
+          {
+            "id": 101,
+            "titulo": "Inception",
+            "ano": 2010,
+            "papel": "Dom Cobb"
+          },
+          {
+            "id": 102,
+            "titulo": "The Revenant",
+            "ano": 2015,
+            "papel": "Hugh Glass"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Scarlett Johansson",
+        "dataNascimento": "1984-11-22",
+        "filmes": [
+          {
+            "id": 103,
+            "titulo": "Lost in Translation",
+            "ano": 2003,
+            "papel": "Charlotte"
+          },
+          {
+            "id": 104,
+            "titulo": "Avengers: Endgame",
+            "ano": 2019,
+            "papel": "Natasha Romanoff / Black Widow"
+          }
+        ]
+      }
+    ]
+  }
+  

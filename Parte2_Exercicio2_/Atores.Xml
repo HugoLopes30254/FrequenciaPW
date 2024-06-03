@@ -1,0 +1,42 @@
+<registro>
+  <atores>
+    <ator>
+      <id>1</id>
+      <nome>Leonardo DiCaprio</nome>
+      <dataNascimento>1974-11-11</dataNascimento>
+      <filmes>
+        <filme>
+          <id>101</id>
+          <titulo>Inception</titulo>
+          <ano>2010</ano>
+          <papel>Dom Cobb</papel>
+        </filme>
+        <filme>
+          <id>102</id>
+          <titulo>The Revenant</titulo>
+          <ano>2015</ano>
+          <papel>Hugh Glass</papel>
+        </filme>
+      </filmes>
+    </ator>
+    <ator>
+      <id>2</id>
+      <nome>Scarlett Johansson</nome>
+      <dataNascimento>1984-11-22</dataNascimento>
+      <filmes>
+        <filme>
+          <id>103</id>
+          <titulo>Lost in Translation</titulo>
+          <ano>2003</ano>
+          <papel>Charlotte</papel>
+        </filme>
+        <filme>
+          <id>104</id>
+          <titulo>Avengers: Endgame</titulo>
+          <ano>2019</ano>
+          <papel>Natasha Romanoff / Black Widow</papel>
+        </filme>
+      </filmes>
+    </ator>
+  </atores>
+</registro>
